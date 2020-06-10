@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 840425738,
+      "message": {
+        "message_id": 2267,
+        "from": {
+          "id": 858079849,
+          "is_bot": false,
+          "first_name": "Gabriel",
+          "last_name": "Scalfi",
+          "language_code": "en"
+        },
+        "chat": {
+          "id": 858079849,
+          "first_name": "Gabriel",
+          "last_name": "Scalfi",
+          "type": "private"
+        },
+        "date": 1584497990,
+        "text": "Cinema"
+      }
+    }
+  ]
+}
